@@ -18,6 +18,10 @@
  [![nodejs](https://img.shields.io/badge/-Node.js-green?logo=%22node.js%22&logoColor="green"&style=%22for-the-badge%22&labelColor="black")](https://nodejs.org/en/) [![nodejs](https://img.shields.io/badge/-javascript-d8ed1a?logo=%22javascript%22&logoColor="d8ed1a"&style=%22for-the-badge%22&labelColor="black")](https://www.javascript.com/)
 
  ----
+<details>
+<summary>
+<span style="color:black">Some Additional Info!</span>
+</summary>
 
 #### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xynfer.xynfer)
@@ -27,6 +31,10 @@
 #### Github Stats
 [![xynfers GitHub stats](https://github-readme-stats.vercel.app/api?username=xynfer&show_icons=true&theme=tokyonight&hide=prs,contribs)](https://github.com/xynfer)
 
+---
+
 #### Coding Stats
+
+</details>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
