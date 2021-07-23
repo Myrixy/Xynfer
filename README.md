@@ -13,8 +13,6 @@
 
 ----
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 #### <span style="color:black">Top Technologies!</span>
  [![nodejs](https://img.shields.io/badge/-Node.js-green?logo=%22node.js%22&logoColor="green"&style=%22for-the-badge%22&labelColor="black")](https://nodejs.org/en/) [![nodejs](https://img.shields.io/badge/-javascript-d8ed1a?logo=%22javascript%22&logoColor="d8ed1a"&style=%22for-the-badge%22&labelColor="black")](https://www.javascript.com/)
@@ -29,3 +27,6 @@
 #### Github Stats
 [![xynfers GitHub stats](https://github-readme-stats.vercel.app/api?username=xynfer&show_icons=true&theme=tokyonight&hide=prs,contribs)](https://github.com/xynfer)
 
+#### Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
