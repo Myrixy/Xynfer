@@ -43,4 +43,6 @@ JSON         10 mins         █▒░░░░░░░░░░░░░░░
 Git Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 ```
 <!--END_SECTION:waka-->
+ 
+ <img src=https://wakatime.com/share/@9de816d1-a65b-45d1-a2c1-1231f583d56f/efe3b748-9fcb-4ac2-8618-8253132d5843.svg width="300">
 </details>
