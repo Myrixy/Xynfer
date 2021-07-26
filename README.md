@@ -44,5 +44,5 @@ Git Config   4 mins          ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
  
- <img src=https://wakatime.com/share/@9de816d1-a65b-45d1-a2c1-1231f583d56f/efe3b748-9fcb-4ac2-8618-8253132d5843.svg width="300">
+ <img src="https://wakatime.com/share/@9de816d1-a65b-45d1-a2c1-1231f583d56f/8fb3a302-64ca-450f-978f-b9b339418479.svg" width="450">
 </details>
