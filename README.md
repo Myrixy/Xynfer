@@ -35,6 +35,13 @@
 
 #### Coding Stats
 <!--START_SECTION:waka-->
+```text
+JavaScript   1 hr 53 mins    ███████████████░░░░░░░░░░   60.66 % 
+Markdown     42 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.56 % 
+YAML         16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+JSON         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Git Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+```
 <!--END_SECTION:waka-->
  
 <img src="https://wakatime.com/share/@9de816d1-a65b-45d1-a2c1-1231f583d56f/8fb3a302-64ca-450f-978f-b9b339418479.svg" width="450">
