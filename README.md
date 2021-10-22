@@ -36,11 +36,7 @@
 #### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 53 mins    ███████████████░░░░░░░░░░   60.66 % 
-Markdown     42 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.56 % 
-YAML         16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-JSON         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Git Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
  
