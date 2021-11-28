@@ -7,7 +7,7 @@
 ---
 
 - 🔥 Iam currently working on a **[Discord.js](https://discord.js.org/#/)** Bot!
-- 🔥 Pronounce: `Xynfer. Deku. Lightning`
+- 🔥 Names: `Xynfer. Deku. Lightning`
 
 - 🔥 What I Love: `My Family, To Talk😇, Anime, To Code`
 
