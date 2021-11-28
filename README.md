@@ -2,7 +2,7 @@
 
 #### <span style="color:black">Reach Me!</span> :email:
 
-[![Instagram](https://img.shields.io/badge/-My%20Instagram-ffffff?logo=%22instagram%22&style=%22plastic%22&link=%22instagram.com/personalxynfer%22)](https://instagram.com/personalxynfer) [![Instagram](https://img.shields.io/badge/-My%20Mail-ffffff?logo=%22Gmail%22&style=%22plastic%22&link=%22instagram.com/personalxynfer%22)](mailto:ibopriveacc@gmail.com) [![Instagram](https://img.shields.io/badge/-My%20Github-ffffff?logo=%22github%22&logoColor="black"&style=%22plastic%22&link=%22instagram.com/personalxynfer%22)](https://github.com/xynfer)
+[![Instagram](https://img.shields.io/badge/-My%20Instagram-ffffff?logo=%22instagram%22&style=%22plastic%22&link=%22instagram.com/personalxynfer%22)](https://instagram.com/personalxynfer) [![Instagram](https://img.shields.io/badge/-My%20Mail-ffffff?logo=%22Gmail%22&style=%22plastic%22&link=%22instagram.com/personalxynfer%22)](mailto:noreply@gmail.com) [![Instagram](https://img.shields.io/badge/-My%20Github-ffffff?logo=%22github%22&logoColor="black"&style=%22plastic%22&link=%22instagram.com/personalxynfer%22)](https://github.com/xynfer)
 
 ---
 
